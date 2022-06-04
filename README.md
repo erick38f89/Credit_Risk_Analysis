@@ -5,27 +5,27 @@ Below are the results from the various techniques used to predictive model for H
 
 SMOTEENN:
 
-![SMOTEENN](Resources/Images/SMOTEENN)
+![SMOTEENN](Resources/Images/SMOTEENN.png)
 
 SMOTE:
 
-![SMOTE](Resources/Images/SMOTE.PNG)
+![SMOTE](Resources/Images/SMOTE.png)
 
 RandomOverSample:
 
-![RandomOverSample](Resources/Images/RandomOverSample.PNG)
+![RandomOverSample](Resources/Images/RandomOverSample.png)
 
 ClusterCentroids:
 
-![ClusterCentroids](Resources/Images/ClusterCentroids.PNG)
+![ClusterCentroids](Resources/Images/ClusterCentroids.png)
 
 EasyEnsembleClassifier:
 
-![EasyEnsembleClassifier](Resources/Images/EasyEnsembleClassifier.PNG)
+![EasyEnsembleClassifier](Resources/Images/EasyEnsembleClassifier.png)
 
 BalancedRandomForestClassifier:
 
-![BalancedRandomForestClassifier](Resources/Images/BalancedRandomForestClassifier.PNG)
+![BalancedRandomForestClassifier](Resources/Images/BalancedRandomForestClassifier.png)
 
 #Summary
 
