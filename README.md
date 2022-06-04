@@ -7,9 +7,11 @@ SMOTEENN:
 
 ![SMOTEENN](Resources/Images/SMOTEENN.PNG)
 
+
 SMOTE:
 
 ![SMOTE](Resources/Images/SMOTE.PNG)
+
 
 RandomOverSample:
 
