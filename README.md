@@ -5,13 +5,11 @@ Below are the results from the various techniques used to predictive model for H
 
 SMOTEENN:
 
-![SMOTEENN](Resources/Images/SMOTEENN.PNG)
-
+![SMOTEENN](Resources/Images/SMOTEENN)
 
 SMOTE:
 
 ![SMOTE](Resources/Images/SMOTE.PNG)
-
 
 RandomOverSample:
 
